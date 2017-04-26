@@ -1,7 +1,5 @@
  # -*- coding: utf-8 -*-
 from cryptography.fernet import Fernet
-import truths
-import logiccircuit as lc
 
 print "\n\n"
 print "=" * 90
